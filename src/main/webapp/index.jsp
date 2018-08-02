@@ -3,7 +3,7 @@
     <h2>Jersey RESTful Web Application! Advanced JAX-RS - Home Page</h2>
     <hr>
     
-    <p>Course Progress -> <a href="https://javabrains.io/courses/javaee_advjaxrs/lessons/The-Application-Class/"> 1.5 The Application Class</a>
+    <p>Course Progress -> <a href="https://javabrains.io/courses/javaee_advjaxrs/lessons/ParamConverters/"> 2.3 ParamConverters</a>
 
     <h3>Simple Rest Call - Example</h3>
     <p><a href="aapi/myresource">Jersey resource</a>
