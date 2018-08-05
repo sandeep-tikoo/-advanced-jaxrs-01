@@ -2,15 +2,15 @@
 <body>
     <h2>Jersey RESTful Web Application! Advanced JAX-RS - Home Page</h2>
     <hr>
-    
-    <p>Course Progress -> <a href="https://javabrains.io/courses/javaee_advjaxrs/lessons/ParamConverters/"> 2.3 ParamConverters</a>
+    <p>Last Finished -> <a href="https://javabrains.io/courses/javaee_advjaxrs/"> JAX-RS Client</a>
+    <p>Next to start -> <a href="https://javabrains.io/courses/javaee_advjaxrs/"> REST API Authentication</a>
 
     <h3>Simple Rest Call - Example</h3>
-    <p><a href="aapi/myresource">Jersey resource</a>
+    <p><a href="newrest/myresource">Jersey resource</a>
     
     <h3>REST Service Methods</h3>
-    <p><a href="aapi/messages">GET Messages List</a>
-    <p><a href="aapi/messages/1">GET Message instance</a>
+    <p><a href="newrest/messages/">GET Messages List</a>
+    <p><a href="newrest/messages/1">GET Message instance</a>
     <p>POST a new Message</p>
     <p>PUT, Modify an existing Message</p>
     <p>DELETE an existing Message</p>
