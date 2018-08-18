@@ -9,10 +9,8 @@ public class getResponse {
 
 	public static completeResponse GetResponse(ResultSet rs) throws SQLException {
 	
-		completeResponse CR = new completeResponse(0,bwTxns.getBwTxns(rs));
-		return CR;
-
-//		return null;
+		completeResponse cR = new completeResponse(0,bwTxns.getBwTxns(rs));
+		return cR;
 	}
 	
 	
